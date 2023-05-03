@@ -1,0 +1,48 @@
+cs1302-latin-squares:
+total 144
+drwxr-xr-x 3 ugrad  4096 Jan 29 22:14 bin
+-rw-r--r-- 1 ugrad 91010 Jan 31 23:15 hs_err_pid35160.log
+-rw-r--r-- 1 ugrad 37238 Jan 29 21:18 README.md
+-rw-r--r-- 1 ugrad     0 Feb  1 03:58 rec39100
+drwxr-xr-x 3 ugrad  4096 Jan 29 21:28 src
+drwxr-xr-x 2 ugrad  4096 Feb  1 02:00 tests
+
+cs1302-latin-squares/bin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jan 29 22:14 cs1302
+
+cs1302-latin-squares/bin/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jan 29 22:17 game
+
+cs1302-latin-squares/bin/cs1302/game:
+total 12
+-rw-r--r-- 1 ugrad  407 Jan 31 18:55 LatinSquaresDriver.class
+-rw-r--r-- 1 ugrad 6727 Feb  1 03:54 LatinSquaresGame.class
+
+cs1302-latin-squares/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jan 29 21:27 cs1302
+
+cs1302-latin-squares/src/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Feb  1 03:54 game
+
+cs1302-latin-squares/src/cs1302/game:
+total 16
+-rw-r--r-- 1 ugrad  512 Feb  1 01:37 LatinSquaresDriver.java
+-rw-r--r-- 1 ugrad 9700 Feb  1 03:54 LatinSquaresGame.java
+
+cs1302-latin-squares/tests:
+total 40
+-rw-r--r-- 1 ugrad    8 Jan 29 21:18 tc01.config.txt
+-rw-r--r-- 1 ugrad    2 Jan 29 21:18 tc01.in.txt
+-rw-r--r-- 1 ugrad  494 Jan 29 21:18 tc01.out.txt
+-rw-r--r-- 1 ugrad   20 Jan 29 21:18 tc02.config.txt
+-rw-r--r-- 1 ugrad    2 Jan 29 21:18 tc02.in.txt
+-rw-r--r-- 1 ugrad  494 Jan 29 21:18 tc02.out.txt
+-rw-r--r-- 1 ugrad   24 Jan 29 21:18 tc03.config.txt
+-rw-r--r-- 1 ugrad   12 Jan 29 21:18 tc03.in.txt
+-rw-r--r-- 1 ugrad 1286 Jan 29 21:18 tc03.out.txt
+-rw-r--r-- 1 ugrad   12 Feb  1 02:00 tc04.config.txt
+/home/ugrads/whitej/cs1302_1/projects/cs1302-latin-squares:/home/work/cs1302a
