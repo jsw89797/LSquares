@@ -1,0 +1,46 @@
+cs1302-latin-squares:
+total 48
+drwxr-xr-x 3 ugrad  4096 Sep  4 17:26 bin
+-rw-r--r-- 1 ugrad 33723 Aug 28 14:05 README.md
+-rw-r--r-- 1 ugrad     0 Sep  5 18:17 rec13422
+drwxr-xr-x 3 ugrad  4096 Aug 28 14:07 src
+drwxr-xr-x 2 ugrad  4096 Aug 28 14:05 tests
+
+cs1302-latin-squares/bin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Sep  4 17:26 cs1302
+
+cs1302-latin-squares/bin/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Sep  4 17:29 game
+
+cs1302-latin-squares/bin/cs1302/game:
+total 12
+-rw-r--r-- 1 ugrad  420 Sep  5 18:15 LatinSquaresDriver.class
+-rw-r--r-- 1 ugrad 6695 Sep  5 18:15 LatinSquaresGame.class
+
+cs1302-latin-squares/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Aug 28 14:07 cs1302
+
+cs1302-latin-squares/src/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Sep  5 18:15 game
+
+cs1302-latin-squares/src/cs1302/game:
+total 20
+-rw-r--r-- 1 ugrad   576 Sep  5 18:04 LatinSquaresDriver.java
+-rw-r--r-- 1 ugrad 12717 Sep  5 18:15 LatinSquaresGame.java
+
+cs1302-latin-squares/tests:
+total 36
+-rw-r--r-- 1 ugrad    8 Aug 28 14:05 tc01.config.txt
+-rw-r--r-- 1 ugrad    2 Aug 28 14:05 tc01.in.txt
+-rw-r--r-- 1 ugrad  425 Aug 28 14:05 tc01.out.txt
+-rw-r--r-- 1 ugrad   20 Aug 28 14:05 tc02.config.txt
+-rw-r--r-- 1 ugrad    2 Aug 28 14:05 tc02.in.txt
+-rw-r--r-- 1 ugrad  407 Aug 28 14:05 tc02.out.txt
+-rw-r--r-- 1 ugrad   24 Aug 28 14:05 tc03.config.txt
+-rw-r--r-- 1 ugrad   12 Aug 28 14:05 tc03.in.txt
+-rw-r--r-- 1 ugrad 1199 Aug 28 14:05 tc03.out.txt
+/home/ugrads/whitej/cs1302_02/cs1302-latin-squares:/home/work/cs1302a
